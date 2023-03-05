@@ -1,1 +1,1 @@
-# Django_Blog
+# Building a blog with Django
